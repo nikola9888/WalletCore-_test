@@ -22,7 +22,7 @@ orientation = portrait
 
 fullscreen = 0
 
-icon.filename = assets/icon.png
+#icon.filename = assets/icon.png
 
 
 # Android
